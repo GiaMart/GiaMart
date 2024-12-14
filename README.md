@@ -23,5 +23,8 @@
 
 ## Contact
 📫 giavanna.martini@outlook.com
-![LinkedIn_logo_initials](https://github.com/user-attachments/assets/634089b2-286c-43f1-9fa1-81d9eec2fb1)
+
+![LinkedIn_logo_initials](https://github.com/user-attachments/assets/096d8d9b-834c-4459-b090-5d95fcfbf18b)
+
+
 https://www.linkedin.com/in/gia-martini/ 
