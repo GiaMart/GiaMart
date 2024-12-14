@@ -1,6 +1,6 @@
 # Gia Martini - Aspiring Data Analyst
 
-# Table of Contents
+## Table of Contents
 [Education](#education)
 
 [Skills](#skills)
@@ -22,4 +22,6 @@
 + PowerPoint
 
 ## Contact
-![LinkedIn_logo_initials](https://github.com/user-attachments/assets/634089b2-286c-43f1-9fa1-81d9eec2fb13)
+📫 giavanna.martini@outlook.com
+![LinkedIn_logo_initials](https://github.com/user-attachments/assets/634089b2-286c-43f1-9fa1-81d9eec2fb1)
+https://www.linkedin.com/in/gia-martini/ 
