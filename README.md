@@ -12,7 +12,6 @@
 + Tableau
 + PowerBI
 + Python
-+ PowerPoint
 
 ## Contact
 📫: giavanna.martini@outlook.com
