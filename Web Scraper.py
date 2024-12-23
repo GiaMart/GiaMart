@@ -4,7 +4,7 @@ import datetime
 
 #Example website from LinkedIn Course
 url = "https://pixelford.com/blog/"
-#Had to include name to not get blocked from website
+#Had to include name to not get blocked from website; not always needed
 response = requests.get(url, headers = {'user-agent': 'Gia'})
 html = response.content
 soup = BeautifulSoup(html, 'html.parser')
