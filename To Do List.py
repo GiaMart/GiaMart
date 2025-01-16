@@ -11,8 +11,6 @@ try:
 except:
     pass
 
-print(todos)
-
 # Add Todo
 if len(sys.argv) >= 3 and sys.argv[1].lower() == "add":
     todos.append(f"{sys.argv[2]}\n")   
@@ -30,8 +28,6 @@ if len(sys.argv) >= 3 and sys.argv[1].lower() == "remove":
     except Exception as e:
         print(e)
         sys.exit(1)
-
-print(todos)
 
 # Save File
 file = open(file_name, "w")
