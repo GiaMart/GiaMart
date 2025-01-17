@@ -1,1 +1,0 @@
-This course walked through DB Browser for SQLite using an example-WSDA Music's Data Base
